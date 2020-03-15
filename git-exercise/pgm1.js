@@ -10,5 +10,9 @@ line 9
 line 10
 line 11
 line 12
+<<<<<<< HEAD
 line 7.5
+=======
+line 2.5
+>>>>>>> e54dbc4fc37ecb76e8d13cc187405ec69ad652ff
 */
